@@ -12,7 +12,12 @@ Tradução completa para o Português do Brasil dos menus de contexto, submenus 
 
 ## O que está traduzido
 
-* Menus de desenvolvimento, gerenciamento de arquivos, atalhos de navegação ("Ir Para"), barra de tarefas e comandos de terminal.
+Praticamente **100% da interface dos menus** (creio eu), incluindo:
+
+* **Menu de Contexto Principal:** Todas as ações padrão de arquivos, pastas, área de trabalho e lixeira.
+* **Todos os Submenus:** *Desenvolver*, *Gerenciar Arquivo*, *Ir Para*, *Terminal*, *Mais Opções* e suas respectivas subcategorias.
+* **Barra de Tarefas:** Menus de contexto da barra de tarefas, gerenciamento de janelas, atalhos rápidos e configurações.
+
 
 ## Como instalar
 
