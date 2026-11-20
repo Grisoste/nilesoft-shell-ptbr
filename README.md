@@ -1,18 +1,27 @@
 # Nilesoft Shell — Tradução PT-BR
 
-Tradução completa dos menus de contexto, submenus e barra de tarefas do **Nilesoft Shell** para o Português do Brasil.
+Tradução completa para o Português do Brasil dos menus de contexto, submenus e barra de tarefas do **Nilesoft Shell**.
+
+## Prévia
+
+<p align="center">
+  <img src="assets/menu-contexto-ptbr.png" alt="Menu de contexto do Nilesoft Shell em PT-BR" width="54%">
+  &nbsp;&nbsp;
+  <img src="assets/taskbar-preview-ptbr.png" alt="Menu da barra de tarefas do Nilesoft Shell em PT-BR" width="42%">
+</p>
 
 ## O que está traduzido
-* **Menu Desenvolver:** Editores, comandos `dotnet`, opções de publicação e ajuda.
-* **Gerenciar Arquivo:** Copiar caminhos, alterar extensão, seleção, atributos, registro de DLL/OCX e criação rápida de pastas/arquivos.
-* **Ir Para:** Pastas do sistema, pastas do usuário, Painel de Controle e atalhos das Configurações do Windows.
-* **Barra de Tarefas:** Aplicativos rápidos, organização de janelas, Gerenciador de Tarefas e configurações.
-* **Terminal:** Dicas de execução como administrador para Prompt de Comando, PowerShell e Windows Terminal.
+
+* Menus de desenvolvimento, gerenciamento de arquivos, atalhos de navegação ("Ir Para"), barra de tarefas e comandos de terminal.
 
 ## Como instalar
 
-1. Baixe os arquivos deste repositório (clique em **Code** > **Download ZIP** e extraia).
-2. Abra a pasta de instalação do **Nilesoft Shell** no seu computador (geralmente em `C:\Program Files\Nilesoft Shell`).
-3. Faça um backup da sua pasta `imports` original (opcional, mas recomendado).
-4. Copie os arquivos `.nss` traduzidos para dentro da pasta `imports`, substituindo os existentes.
-5. Abra o `shell.exe` como administrador e clique em **Restart** para aplicar a tradução.
+1. Baixe e extraia os arquivos do repositório.
+2. Acesse a pasta de instalação do **Nilesoft Shell** (geralmente em `C:\Program Files\Nilesoft Shell`).
+3. Recomenda-se fazer um backup da pasta `imports` atual.
+4. Substitua os arquivos na pasta `imports` pelos arquivos `.nss` traduzidos.
+5. Execute o `shell.exe` como administrador e clique em **Restart**.
+
+## Créditos
+
+* [Nilesoft Shell](https://nilesoft.org)
